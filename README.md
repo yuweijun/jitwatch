@@ -23,3 +23,16 @@ The JITWatch user interface is built using JavaFX. This is included in the Oracl
 <h2>Build an example HotSpot log</h2>
 <pre># Build the code first with ant / maven / IDE
 ./makeDemoLogFile.sh</pre>
+
+## volatile print assembly example
+
+```
+./makeVolatilePrintAssemblyLogFile.sh
+```
+
+will output volatile.log
+
+## screenshot
+
+![TriView-snapshot-2019.04.09.21.29.51.png](TriView-snapshot-2019.04.09.21.29.51.png)
+

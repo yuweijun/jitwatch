@@ -16,7 +16,9 @@ jitwatch.properties
 .idea
 jitwatch.i*
 build/
+out/
 .gradle
+*.log
 hotspot_pid*
 *.iml
 *pom.xml.versionsBackup
